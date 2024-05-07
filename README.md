@@ -1,6 +1,6 @@
 [![MasterHead](https://wiobyrne.com/wp-content/uploads/2018/07/Floating-head-for-GIF-1.gif.gif)](https://sagaradhikari.com)
 <h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">Lets reshape our technology and then, technology will reshape the world.</h3>
+<h3 align="center">Lets reshape our technology and then, the technology will reshape this world.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"/>
 
